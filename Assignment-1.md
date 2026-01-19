@@ -4,11 +4,6 @@
 ![PyPI](https://img.shields.io/badge/PyPI-Package-green?style=for-the-badge&logo=pypi&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 👨‍💻 Submitted By
-**Name:** Devansh Chhabra  
-**Roll Number:** 102317041  
-**Subject:** Predictive Analysis (UCS654)
-
 ---
 
 ## 📝 Project Overview
@@ -59,4 +54,13 @@ A backend service that abstracts the complexity. Users simply upload their file,
 * **Package Management:** Twine
 
 ---
+
+
+## 👨‍💻 Submitted By
+**Name:** Devansh Chhabra  
+**Roll Number:** 102317041  
+**Subject:** Predictive Analysis (UCS654)
+
+---
+
 *This repository is a compilation of assignments for the Thapar Institute of Engineering & Technology.*
