@@ -19,42 +19,6 @@ This repository serves as the central hub for the TOPSIS (Technique for Order of
 
 ---
 
-## 🚀 Component Details
-
-### 1️⃣ Part I: Command Line Interface (CLI)
-A robust python script that takes input data, weights, and impacts to calculate the TOPSIS score and rank.
-* **Input:** CSV file with numerical data.
-* **Validation:** Handles file not found, wrong parameter counts, and non-numeric values.
-* **Usage:**
-    ```bash
-    python topsis.py <InputDataFile> <Weights> <Impacts> <OutputResultFileName>
-    ```
-
-### 2️⃣ Part II: PyPI Package
-The TOPSIS logic was encapsulated into a library and published on the Python Package Index (PyPI).
-* **Package Name:** `Topsis-Devansh-[RollNumber]`
-* **Installation:**
-    ```bash
-    pip install Topsis-Devansh-[RollNumber]
-    ```
-* **Live Link:** [Click here](https://pypi.org/project/TOPSIS-Devansh-102317041/)
-
-### 3️⃣ Part III: Web Service & Emailer
-A backend service that abstracts the complexity. Users simply upload their file, and the server handles the processing and emails the results.
-* **Features:** File upload interface, parameter validation, SMTP email integration.
-* **Workflow:** Upload CSV $\rightarrow$ Process TOPSIS $\rightarrow$ Email Results.
-
-* **Live Link:** [Click here](https://topsis-web-service.streamlit.app/)
-
----
-
-## 🛠️ Technologies Used
-* **Language:** Python
-* **Libraries:** Pandas, NumPy, SMTP (Email)
-* **Package Management:** Twine
-
----
-
 
 ## 👨‍💻 Submitted By
 **Name:** Devansh Chhabra  
